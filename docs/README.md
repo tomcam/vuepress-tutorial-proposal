@@ -89,7 +89,7 @@ vuepress dev docs
 ## View the site
 
 You're told to visit [http://localhost:8080/](http://localhost:8080/), 
-so click this linke or paste that address into your browser. Here's what you should see:
+so click the link or paste that address into your browser. Here's what you should see:
 
 
 
