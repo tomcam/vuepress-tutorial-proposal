@@ -20,7 +20,7 @@ md %HOMEDRIVE%%HOMEPATH%\html\mydocsite\docs\.vuepress\public
 md %HOMEDRIVE%%HOMEPATH%\html\mydocsite\
 ```
 
-If you're using MacOS or Linux, create the directory tree like this. * If you're using Windows, create the path like this. **Replace mydocsite with the name of the directory you plan to create.**
+If you're using MacOS or Linux, create the directory tree like this. **Replace mydocsite with the name of the directory you plan to create.**
 
 ```bash
 # -p allows you to create a full directory tree
