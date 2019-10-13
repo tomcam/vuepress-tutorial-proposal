@@ -1,4 +1,15 @@
 
+# VuePress default theme tutorial: creating your home page
+
+VuePress lets you focus on writing content without spending much time on 
+the mechanics. In return you get a beautiful-looking site with
+excellent performance, a clean and functional layout, and header-based
+search.
+
+This tutorial shows how to create a documentation site. You'll need to
+be willing to drop into you Windows or Bash terminal, and to create
+text files.
+
 ## Create the directory structure for your VuePress site
 
 Create the full directory structure and change to the root directory of your project.
@@ -93,3 +104,4 @@ so click the link or paste that address into your browser. Here's what you shoul
 
 ![First look at VuePress-generated site](./assets/images/vuepress-default-home-page.png)
 
+Next: [Create and link to more pages](create-and-link.md)
