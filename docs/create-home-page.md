@@ -6,7 +6,7 @@ excellent performance, a clean and functional layout, and header-based
 search.
 
 This tutorial shows how to create a documentation site. You'll need to
-be willing to drop into you Windows or Bash terminal, and to create
+be willing to drop into your Windows or Bash terminal, and to create
 text files.
 
 ## Create the directory structure for your VuePress site
