@@ -37,3 +37,5 @@ The plain text surrounding it becomes a standard `<p>` paragraph.
 You can learn more about how this works where the
 VuePress [directory structure](https://vuepress.vuejs.org/guide/directory-structure.html#default-page-routing)
 is documented.
+
+How about images? That's discussed in [Handling graphic assets](graphic-assets.md)
