@@ -64,3 +64,5 @@ Your children are ~~not very~~ well informed.
 ***
 Your children are ~~not very~~ well informed.
 ***
+
+Next: [Lines, lists, and blocks of text in markdown](lines-lists-blocks.md)
