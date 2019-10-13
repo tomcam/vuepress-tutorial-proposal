@@ -91,5 +91,5 @@ vuepress dev docs
 You're told to visit [http://localhost:8080/](http://localhost:8080/), 
 so click the link or paste that address into your browser. Here's what you should see:
 
-![First look at VuePress-generated site](vuepress-default-home-page.png)
+![First look at VuePress-generated site](./assets/images/vuepress-default-home-page.png)
 
