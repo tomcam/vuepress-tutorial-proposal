@@ -16,15 +16,19 @@ Create the full directory structure and change to the root directory of your pro
 * If you're using Windows, create the directory tree like this. **Replace mydocsite with the name of the directory you plan to create.**
 
 ```powershell
+:: Create the directory structure
 md %HOMEDRIVE%%HOMEPATH%\html\mydocsite\docs\.vuepress\public
-md %HOMEDRIVE%%HOMEPATH%\html\mydocsite\
+:: Change to the project directory
+cd %HOMEDRIVE%%HOMEPATH%\html\mydocsite\
 ```
 
 If you're using MacOS or Linux, create the directory tree like this. **Replace mydocsite with the name of the directory you plan to create.**
 
 ```bash
+# Create the directory structure
 # -p allows you to create a full directory tree
 $ mkdir -p ~/html/mydocsite/docs/.vuepress/public
+# Change to the project directory
 $ cd ~/html/mydocsite
 ```
 
