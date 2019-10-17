@@ -29,13 +29,23 @@ be converted to an `<h1>` tag in HTML. VuePress
 automatically creates an anchor to that part of the
 page.
 
-The text `[using vue](/guide/using-vue.md)`
+The Markdown `[using vue](/guide/using-vue.md)`
 will be rendered into an HTML link to a document called `using-vue.html`
 in the `/guide` directory, with `using vue` as the anchor text.
 The plain text surrounding it becomes a standard `<p>` paragraph.
 
+The Markdown `get an overview by visiting 
+the [guide](/guide/)` contains a link to the `/guide` directory, where
+it expects to find at least one file named `README.md`.
+
 You can learn more about how this works where the
 VuePress [directory structure](https://vuepress.vuejs.org/guide/directory-structure.html#default-page-routing)
 is documented.
+
+It's slightly odd but helpful that links to files are by convention targeted
+at the Markdown file, not the generated HTML file. For
+example, `using-vue.md` generates the target that you really want to link
+to, which is `using-vue.html`. You can of course link directly to any 
+file on the web.
 
 How about images? That's discussed in [Handling graphic assets](graphic-assets.md)
